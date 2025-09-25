@@ -13,8 +13,8 @@
     Small team. Solid code. Lasting impact.
     <br /><br />
     <a href="https://thallium.pages.dev">Website</a> ·
-    <a href="https://thallium.pages.dev/works">Our Projects</a> ·
-    <a href="https://thallium.pages.dev/career">Join the Team</a> ·
+    <a href="https://thallium.pages.dev/services">Services</a> ·
+    <a href="https://thallium.pages.dev/competences">Competences</a> ·
     <a href="https://thallium.pages.dev/discord">Community</a>
   </p>
 </div>
